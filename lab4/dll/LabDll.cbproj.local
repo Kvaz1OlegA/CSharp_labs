@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.04.18 17:57:37.650,=C:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.04.18 17:57:38.172,=C:\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.04.18 18:00:38.849,=C:\Documents\Embarcadero\Studio\Projects\File2.h</Transaction>
+    <Transaction>2020.04.18 18:05:22.236,C:\Documents\Embarcadero\Studio\Projects\TaskDll.h=C:\Documents\Embarcadero\Studio\Projects\File2.h</Transaction>
+    <Transaction>2020.04.18 18:05:34.816,C:\Documents\Embarcadero\Studio\Projects\TaskDll.cpp=C:\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.04.18 18:08:04.903,C:\Documents\Embarcadero\Studio\Projects\LabDllPCH1.h=C:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.04.18 18:08:04.908,C:\Documents\Embarcadero\Studio\Projects\LabDll.cbproj=C:\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020.04.18 18:09:22.730,E:\university\progs\C#\lab4\dll\TaskDll.cpp=C:\Documents\Embarcadero\Studio\Projects\TaskDll.cpp</Transaction>
+    <Transaction>2020.04.18 18:09:24.937,E:\university\progs\C#\lab4\dll\TaskDll.h=C:\Documents\Embarcadero\Studio\Projects\TaskDll.h</Transaction>
+    <Transaction>2020.04.18 18:09:27.487,E:\university\progs\C#\lab4\dll\LabDllPCH1.h=C:\Documents\Embarcadero\Studio\Projects\LabDllPCH1.h</Transaction>
+    <Transaction>2020.04.18 18:09:29.582,E:\university\progs\C#\lab4\dll\LabDll.cbproj=C:\Documents\Embarcadero\Studio\Projects\LabDll.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
