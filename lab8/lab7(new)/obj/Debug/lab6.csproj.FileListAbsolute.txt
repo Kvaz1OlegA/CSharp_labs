@@ -1,0 +1,7 @@
+E:\university\progs\C#\2 сем\lab7\bin\Debug\lab6.exe.config
+E:\university\progs\C#\2 сем\lab7\bin\Debug\lab6.exe
+E:\university\progs\C#\2 сем\lab7\bin\Debug\lab6.pdb
+E:\university\progs\C#\2 сем\lab7\obj\Debug\lab6.csprojAssemblyReference.cache
+E:\university\progs\C#\2 сем\lab7\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\2 сем\lab7\obj\Debug\lab6.exe
+E:\university\progs\C#\2 сем\lab7\obj\Debug\lab6.pdb

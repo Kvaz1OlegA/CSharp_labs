@@ -1,0 +1,14 @@
+E:\university\progs\C#\lab5\bin\Debug\lab5.exe.config
+E:\university\progs\C#\lab5\bin\Debug\lab5.exe
+E:\university\progs\C#\lab5\bin\Debug\lab5.pdb
+E:\university\progs\C#\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+E:\university\progs\C#\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\lab5\obj\Debug\lab5.exe
+E:\university\progs\C#\lab5\obj\Debug\lab5.pdb
+E:\university\progs\C#\2 сем\lab5\bin\Debug\lab5.exe.config
+E:\university\progs\C#\2 сем\lab5\bin\Debug\lab5.exe
+E:\university\progs\C#\2 сем\lab5\bin\Debug\lab5.pdb
+E:\university\progs\C#\2 сем\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+E:\university\progs\C#\2 сем\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+E:\university\progs\C#\2 сем\lab5\obj\Debug\lab5.exe
+E:\university\progs\C#\2 сем\lab5\obj\Debug\lab5.pdb
