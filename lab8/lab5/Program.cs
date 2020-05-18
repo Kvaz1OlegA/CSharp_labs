@@ -114,7 +114,21 @@ namespace lab5
                         break;
                     case 2:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         foreach (Transport transport in transports)
                         {
                             if (transport.Id == number)
@@ -127,13 +141,40 @@ namespace lab5
                         break;
                     case 3:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         SetAllData(transports, number);
                         Console.Clear();
                         break;
                     case 4:
-                        Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         int color;
                         foreach (Transport transport in transports)
                         {
@@ -148,7 +189,21 @@ namespace lab5
                         break;
                     case 5:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         string num;
                         foreach (Transport transport in transports)
                         {
@@ -163,7 +218,21 @@ namespace lab5
                         break;
                     case 6:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         Console.Clear();
                         foreach (Transport transport in transports)
                         {
@@ -177,7 +246,21 @@ namespace lab5
                         break;
                     case 7:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         string brand;
                         foreach (Transport transport in transports)
                         {
@@ -192,7 +275,21 @@ namespace lab5
                         break;
                     case 8:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch(Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         int wheels;
                         foreach (Transport transport in transports)
                         {
@@ -206,8 +303,22 @@ namespace lab5
                         Console.Clear();
                         break;
                     case 9:
-                        Console.WriteLine("Ender Id"); 
-                        Check(out number);
+                        Console.WriteLine("Ender Id");
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         int seats;
                         foreach (Transport transport in transports)
                         {
@@ -221,8 +332,22 @@ namespace lab5
                         Console.Clear();
                         break;
                     case 10:
-                        Console.WriteLine("Ender Id"); 
-                        Check(out number);
+                        Console.WriteLine("Ender Id");
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         Console.WriteLine("Enter country");
                         string country;
                         foreach (Transport transport in transports)
@@ -239,7 +364,21 @@ namespace lab5
                     case 11:
 
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         bool engine;
                         Console.WriteLine("Turn the key(choose i/o)");
                         switch(Console.ReadLine())
@@ -267,8 +406,22 @@ namespace lab5
                         Console.Clear();
                         break;
                     case 12:
-                        Console.WriteLine("Ender Id"); 
-                        Check(out number);
+                        Console.WriteLine("Ender Id");
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         foreach (Transport transport in transports)
                         {
                             if (transport.Id == number)
@@ -282,7 +435,21 @@ namespace lab5
                         break;
                     case 13:
                         Console.WriteLine("Ender Id");
-                        Check(out number);
+                        try
+                        {
+                            number = int.Parse(Console.ReadLine());
+                            if (number < 0)
+                                throw new Exception();
+                            if (number > transports.Count)
+                                throw new Exception();
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Wrong input");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
                         Console.Clear();
                         foreach (Transport transport in transports)
                         {
